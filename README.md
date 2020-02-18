@@ -4,3 +4,5 @@ Using the Knowledge of Artificial Intelligence a Neural Network was made from sc
 
 The data was made using sklearn and the topology of the neural network was built arbitrarily.
 
+Also the same trouble was solved using 3 libraries such as Tensorflow, Keras and Scikit Learn.
+
